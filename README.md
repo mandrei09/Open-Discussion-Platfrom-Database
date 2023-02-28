@@ -1,9 +1,6 @@
 # Open-Discussion-Platfrom-Database
 A database made with PL/SQL for an open discussion platform 
 
-Sisteme de Gestiune a Bazelor de Date
-**Informatică an II**
-
 # PROIECT
 
 Proiectați și implementați folosind Oracle 11g/12c o bază de date relațională (minim 6 **entități
